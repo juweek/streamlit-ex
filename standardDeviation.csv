@@ -1,0 +1,65 @@
+Country,average,standardError,fifth_percentile,twentyfitfh_percentile,ninetyfifth_lower,ninetyfifth_higher,seventyfifth,ninteyfifth,Wave,Benchmark,prefix,similarCountries
+Singapore,615,2.9,450,565,609,620,675,743,1,0,3,
+Chinese Taipei,607,1.7,491,565,604,610,652,712,1,0,,
+"Korea, Rep. of",594,2.6,462,549,589,600,645,711,1,0,,"Hong Kong SAR;Japan"
+Hong Kong SAR,594,4,440,547,586,602,651,718,1,0,†,"Korea, Rep. of;Japan"
+Japan,591,2.3,472,545,586,595,639,704,1,0,,"Korea, Rep. of;Hong Kong SAR"
+Macao SAR,582,1,444,533,580,584,636,704,1,0,,
+Lithuania,561,2.9,426,512,555,566,613,679,1,0,2,"Türkiye (5);Dubai, UAE"
+Türkiye (5),553,4.1,378,489,545,561,622,706,1,0,3,"Lithuania;England;Poland;Ireland;Romania;Dubai, UAE"
+England,552,2.7,393,493,547,557,616,695,1,0,2,"Türkiye (5);Poland;Ireland;Romania;Dubai, UAE"
+Poland,546,2,411,498,542,550,598,662,1,0,2,Türkiye (5);England;Ireland;Romania
+Ireland,546,2.9,401,495,540,551,604,667,1,0,,Türkiye (5);England;Poland;Romania
+Romania,542,4.8,389,487,532,551,601,672,1,0,2 ≡,Türkiye (5);England;Poland;Ireland;Netherlands;Latvia
+Netherlands,537,2,426,494,533,541,583,638,1,0,†,Romania;Latvia;Bulgaria
+Latvia,534,2.8,400,483,529,540,590,655,1,0,,Romania;Netherlands;Norway (5);Czech Republic;Sweden;Bulgaria;Finland
+Norway (5),531,2,404,481,527,534,582,646,1,0,2,Latvia;Czech Republic;Sweden;Bulgaria;Finland;Australia
+Czech Republic,530,2.2,404,482,526,535,581,646,1,0,2,Latvia;Norway (5);Sweden;Bulgaria;Finland;Australia;Serbia
+Sweden,530,2.8,399,480,524,535,583,650,1,0,2,Latvia;Norway (5);Czech Republic;Bulgaria;Finland;Australia;Germany;Denmark;Serbia
+Bulgaria,530,3.6,365,473,523,537,595,664,1,0,,Netherlands;Latvia;Norway (5);Czech Republic;Sweden;Finland;Australia;Germany;Denmark;Serbia;Hungary
+Finland,529,2.5,391,478,524,534,585,652,1,0,,Latvia;Norway (5);Czech Republic;Sweden;Bulgaria;Australia;Germany;Denmark;Serbia
+Australia,525,2.6,366,465,520,530,588,668,1,0,,Norway (5);Czech Republic;Sweden;Bulgaria;Finland;Germany;Denmark;Serbia;Belgium (Flemish);Hungary
+Germany,524,2.1,393,475,520,528,576,643,1,0,,Sweden;Bulgaria;Finland;Australia;Denmark;Serbia;Belgium (Flemish);Hungary;Portugal;United States
+Denmark,524,2.1,403,476,520,528,573,638,1,0,†,Sweden;Bulgaria;Finland;Australia;Germany;Serbia;Belgium (Flemish);Hungary;Portugal;United States
+Serbia,523,3.3,383,471,516,529,578,645,1,0,2,"Czech Republic;Sweden;Bulgaria;Finland;Australia;Germany;Denmark;Belgium (Flemish);Hungary;Portugal;United States;Cyprus;Slovak Republic;Albania;Quebec, Canada"
+Belgium (Flemish),521,2.4,402,471,516,526,571,634,1,0,2 †,"Australia;Germany;Denmark;Serbia;Hungary;Portugal;United States;Cyprus;Slovak Republic;Albania;Quebec, Canada"
+Hungary,520,3.6,355,462,513,527,585,656,1,0,,"Bulgaria;Australia;Germany;Denmark;Serbia;Belgium (Flemish);Portugal;United States;Cyprus;Slovak Republic;Slovenia;Italy;Armenia;Albania;Quebec, Canada"
+Portugal,517,2.8,378,460,512,523,576,646,1,0,,"Germany;Denmark;Serbia;Belgium (Flemish);Hungary;United States;Cyprus;Slovak Republic;Slovenia;Italy;Armenia;Albania;Quebec, Canada"
+United States,516,3.1,347,451,510,523,586,666,1,0,2 †,"Germany;Denmark;Serbia;Belgium (Flemish);Hungary;Portugal;Cyprus;Slovak Republic;Slovenia;Italy;Armenia;Albania;Quebec, Canada"
+Cyprus,516,2.5,373,464,511,521,573,641,1,0,2,"Serbia;Belgium (Flemish);Hungary;Portugal;United States;Slovak Republic;Slovenia;Italy;Armenia;Albania;Quebec, Canada"
+Slovak Republic,515,3.1,363,469,509,521,572,632,1,0,,"Serbia;Belgium (Flemish);Hungary;Portugal;United States;Cyprus;Slovenia;Italy;Armenia;Albania;Quebec, Canada"
+Slovenia,514,1.8,390,465,510,517,565,628,1,0,,"Hungary;Portugal;United States;Cyprus;Slovak Republic;Italy;Armenia;Albania;Quebec, Canada"
+Italy,513,2.8,375,461,508,519,570,637,1,0,2,"Hungary;Portugal;United States;Cyprus;Slovak Republic;Slovenia;Armenia;Albania;Quebec, Canada"
+Armenia,513,2.8,388,468,507,518,560,618,1,0,2,"Hungary;Portugal;United States;Cyprus;Slovak Republic;Slovenia;Italy;Albania;Quebec, Canada"
+Albania,512,4.9,373,458,502,521,566,642,1,0,2 ≡,"Serbia;Belgium (Flemish);Hungary;Portugal;United States;Cyprus;Slovak Republic;Slovenia;Italy;Armenia;Canada;Quebec, Canada;Sharjah, UAE;Ontario, Canada"
+Canada,504,2,368,450,500,508,559,633,1,0,1 3,"Albania;Spain;Georgia;Sharjah, UAE;Ontario, Canada"
+TIMSS 2023 International Average,503,0.4,359,447,502,504,562,636,1,0,,
+Spain,498,2.1,372,447,494,502,551,619,1,0,2,"Canada;United Arab Emirates;Georgia;Azerbaijan;Sharjah, UAE;Ontario, Canada"
+United Arab Emirates,498,1.2,314,423,496,501,576,662,1,0,,"Spain;Georgia;Azerbaijan;Sharjah, UAE;Ontario, Canada"
+Georgia,498,3.1,358,446,492,504,553,621,1,0,1,"Canada;Spain;United Arab Emirates;Azerbaijan;New Zealand;Sharjah, UAE;Ontario, Canada"
+Azerbaijan,494,3.5,334,433,487,501,560,632,1,0,,"Spain;United Arab Emirates;Georgia;New Zealand;Belgium (French);Kazakhstan;Ontario, Canada"
+New Zealand,490,2.6,338,427,485,495,555,635,1,0,2 †,Georgia;Azerbaijan;Belgium (French);Kazakhstan;France
+Belgium (French),489,2.4,364,437,485,494,542,611,1,0,2,Azerbaijan;New Zealand;Kazakhstan;France
+Kazakhstan,487,3.6,340,428,480,494,549,624,1,0,2,Azerbaijan;New Zealand;Belgium (French);France
+France,484,2.9,353,431,478,490,539,604,1,0,2,New Zealand;Belgium (French);Kazakhstan
+Montenegro,477,2,346,428,473,481,530,594,1,0,2,North Macedonia
+North Macedonia,474,3.6,329,414,467,481,536,606,1,0,,Montenegro;Qatar
+Qatar,464,3.5,304,395,457,471,533,620,1,0,,"North Macedonia;Bahrain;Abu Dhabi, UAE"
+Bahrain,462,4.1,298,393,453,470,530,622,1,0,,"Qatar;Kosovo;Abu Dhabi, UAE"
+Kosovo,451,3.4,320,397,445,458,507,583,1,0,2,"Bahrain;Bosnia & Herzegovina;Chile;Uzbekistan;Abu Dhabi, UAE"
+Bosnia & Herzegovina,447,3.2,319,397,441,453,498,565,1,0,1,Kosovo;Chile;Uzbekistan
+Chile,444,2.8,307,388,438,449,500,574,1,0,2 †,Kosovo;Bosnia & Herzegovina;Uzbekistan
+Uzbekistan,443,3.2,311,387,437,450,500,579,1,0,,Kosovo;Bosnia & Herzegovina;Chile
+Jordan,427,5.3,263,356,416,437,498,595,1,0,,"Oman;Iran, Islamic Rep. of;Saudi Arabia"
+Oman,421,4,267,350,413,429,489,590,1,0,,"Jordan;Iran, Islamic Rep. of;Saudi Arabia"
+"Iran, Islamic Rep. of",420,4.2,250,353,411,428,491,569,1,0,ψ,Jordan;Oman;Saudi Arabia
+Saudi Arabia,419,4.2,268,352,411,428,486,573,1,0,3,"Jordan;Oman;Iran, Islamic Rep. of"
+Brazil,400,3.4,259,336,393,407,462,550,1,0,2 ψ,Morocco
+Morocco,393,4.6,230,322,384,402,463,566,1,0,,Brazil;Kuwait
+Kuwait,382,4.4,190,299,373,391,464,567,1,0,,Morocco
+South Africa (5),362,3.5,193,277,355,369,438,566,1,1,,
+"Dubai, UAE",557,1.6,390,502,554,560,618,695,1,1,,Lithuania;Türkiye (5);England
+"Quebec, Canada",515,2.7,390,465,509,520,566,632,1,1,2,Serbia;Belgium (Flemish);Hungary;Portugal;United States;Cyprus;Slovak Republic;Slovenia;Italy;Armenia;Albania
+"Sharjah, UAE",504,3.3,336,441,498,510,572,652,1,1,,"Albania;Canada;Spain;United Arab Emirates;Georgia;Ontario, Canada"
+"Ontario, Canada",503,3.4,367,448,496,510,559,634,1,1,3,"Albania;Canada;Spain;United Arab Emirates;Georgia;Azerbaijan;Sharjah, UAE"
+"Abu Dhabi, UAE",459,1.9,284,376,455,462,540,632,1,1,,Qatar;Bahrain;Kosovo
